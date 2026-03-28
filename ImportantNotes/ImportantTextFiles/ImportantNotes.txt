@@ -1,0 +1,2 @@
+Steps to Create OPENAI Api Key
+1)
